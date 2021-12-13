@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News Aggregator</string>
+    <string name="submenu_topics">Topics</string>
+    <string name="submenu_countries">Countries</string>
+    <string name="submenu_languages">Languages</string>
+    <string name="drawer_open">Open news source drawer.</string>
+    <string name="drawer_close">Close news source drawers.</string>
+    <string name="article_image">News article image</string>
+    <string name="loading_image_content">Loading image</string>
+</resources>
